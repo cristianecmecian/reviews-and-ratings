@@ -5,7 +5,7 @@
   "admin/reviews.tab.approved": "อนุมัติแล้ว",
   "admin/reviews.tab.download": "ดาวน์โหลด",
   "admin/reviews.reviewSchema.review": "รีวิว",
-  "admin/reviews.reviewSchema.product": "ผลิตถัณฑ์",
+  "admin/reviews.reviewSchema.product": "ผลิตภัณฑ์",
   "admin/reviews.reviewSchema.date": "วันที่",
   "admin/reviews.mutations.approvalFeedback": "รีวิวได้รับอนุมัติสำเร็จ",
   "admin/reviews.table.actions.approveReview": "อนุมัติรีวิว",
